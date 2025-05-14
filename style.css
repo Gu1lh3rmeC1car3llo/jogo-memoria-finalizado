@@ -1,0 +1,42 @@
+* {
+
+text-align: center;
+size: 80%;
+
+}
+
+.image-label {
+    display: inline-block;
+    cursor: pointer;
+}
+
+h1 {
+
+text-align: center;
+color: darkblue;
+
+}
+
+img {
+
+height: 150px;
+width: 150px;
+padding: 15px;
+transition: all 0.3s ease;
+
+}
+
+div {
+
+height: 200px;
+
+
+}
+
+body {
+
+background-image: url(imagem-fundo.gif);
+background-size: cover;
+
+}
+
